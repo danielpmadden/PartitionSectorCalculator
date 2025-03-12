@@ -15,7 +15,7 @@ def bytes_to_sectors(size_mb):
 
 def get_valid_integer(prompt_text):
     """
-    Get a valid positive integer from the user.
+    Get a valid positive integer from user.
     
     :param prompt_text: The text prompt for user input.
     :type prompt_text: str
